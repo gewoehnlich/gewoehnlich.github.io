@@ -1,0 +1,31 @@
+html {
+    font-family: "Roboto", sans-serif;
+    color: #E4CCC2;
+    margin: 0px;
+}
+
+body {
+    background-color: #403834;
+    margin: 0px;
+}
+
+div {
+    background-color: #5A4E48;
+    margin: 0px 40px 40px 40px;
+    border: 5px solid #201D1D;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 45px;
+    text-shadow: #201D1D -3px 3px;
+    margin: 10px auto;
+}
+
+img {
+    margin: 0px auto;
+    display: block;
+    width: 200px;
+    height: 200px;
+}
